@@ -9,16 +9,11 @@ package ejercicio1;
  * @author usuario
  */
 public class Ejercicio1 {
-
-    /**
-     * @param args the command line arguments
-     */
+//Este código ha sido escrito por la cuenta principal
     public static void main(String[] args) {
         // TODO code application logic here
         Archivo archivo1=new Archivo("Albacete","es una capital");
-        Archivo archivo2=new Archivo("Madrid", "es la capital de España");
-        Archivo archivo3=new Archivo("Bormate", " es un pueblo independizado");
-        Archivo archivo4=new Archivo("Murcia", " que es eso? se come?");
+
         Archivo archivo5=new Archivo("Golosalvo", "12345678910111213141516171819202122232425262728");
         
         DiscoDuro discoDuro1=new DiscoDuro(100);
